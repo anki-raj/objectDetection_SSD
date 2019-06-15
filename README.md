@@ -8,7 +8,7 @@ pip 10+
 
 conda env create -f computer_vision.yml
 
-The following is a link to be downloaded and added to the working directory: 
+The following is a link to the weights which has to be downloaded and added to the working directory: 
 https://onedrive.live.com/?authkey=%21ADRvNHJ82fnwP%5FM&cid=01D351F802F27D8E&id=1D351F802F27D8E%21141&parId=1D351F802F27D8E%21140&action=locate
 
 python object_detection.py
